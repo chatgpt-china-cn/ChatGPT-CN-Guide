@@ -1,6 +1,6 @@
 # ChatGPT 中文版：国内免费指南（支持GPT-4.1、4o、o1、o3 和 Claude 4、Gemini 2.5 Pro，无需翻墙）【9月最新更新】
 
-> **更新日期：2025/09/01**   
+> **更新日期：2025/09/04**   
 
 **国内体验使用 [ChatGPT 中文版](https://chat.lanjingai.org)，无需翻墙，支持 GPT-4.1、4o、o1、o3 和 Claude 4、Gemini 2.5 Pro 及中文多功能应用！**    
 本项目旨在为用户提供一站式的 **ChatGPT 中文版使用指南**，同时整理了国内可用的 [**ChatGPT 镜像网站**](https://xsimplechat.com) 和**官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
